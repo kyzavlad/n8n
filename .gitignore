@@ -1,0 +1,3 @@
+*.sqlite-journal
+*.log
+node_modules/
